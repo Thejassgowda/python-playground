@@ -85,10 +85,10 @@ Modules
 |:---|:---:|
 | 📝 Variables | 🟢 100% |
 | ⌨️ Input & Output | 🟢 100% |
-| 🔤 Strings | 🟡 Learning |
-| 🔀 Conditions | 🟡 Learning |
-| 🔁 Loops | 🔵 Next |
-| 📦 Collections | 🔵 Next |
+| 🔤 Strings |🟢 100% |
+| 🔀 Conditions | 🟢 100% |
+| 🔁 Loops | 🟢 100% |
+| 📦 Collections | 🟡 Learning  |
 | ⚙️ Functions | 🔵 Next |
 | 🧱 OOP | ⚪ Coming Soon |
 
