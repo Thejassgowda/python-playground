@@ -1,4 +1,4 @@
-# python-playground
+# python-playground 01
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=🐍%20Python%20Playground&fontSize=48&fontAlignY=35&animation=fadeIn&color=0:3776AB,50:306998,100:FFD43B&fontColor=ffffff"/>
 
 <br>
