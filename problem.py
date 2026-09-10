@@ -3,7 +3,7 @@ name=input("enter your name:")
 age=int(input("enter your age:"))
 print('Hi',name , "next year youll be " , age+1)
 
-# simle calculater
+# simple calculater
 n1=float(input("enter a 1st number:"))
 n2=float(input("enter a 2st number:"))
 sum=n1+n2
@@ -30,6 +30,7 @@ for ch in sent :
     if ch in vowels:
         count=count+1
         print(count)
+          
     #check the number is  palandrom    
 num=input("enter a number:")
 if num==num[::-1]:
