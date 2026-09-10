@@ -19,3 +19,20 @@ while i<=n:
     total+=i
     i+=1
 print("sum of 1 to", n ,"is",total ) 
+
+###  Multiplication Table
+num = int(input("Enter a number: "))
+i = 1
+while i <= 10:
+    print(num, "x", i, "=", num * i)
+    i += 1
+ 
+ # 19. Guess the Secret Number
+secret = 7  # hardcoded for now
+guess = int(input("Guess the number: "))
+
+while guess != secret:
+    print("Wrong! Try again.")
+    guess = int(input("Guess the number: "))
+
+print("Correct! You guessed it.")
